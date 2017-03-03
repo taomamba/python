@@ -1,1 +1,1 @@
-python3.2
+python3.26
